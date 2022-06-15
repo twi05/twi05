@@ -12,12 +12,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🔭 I’m 2nd Year CSE Undergrad at Shri Ramdeobaba College of Engineering and Management.
+- 🌱 Exploring Software Engineering Field.
 - ⚡ In my free time I solve problems on Leetcode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-twinshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[Twinshu](https://www.linkedin.com/in/twinshu-parmar-84b5bb209/))
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-twinshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/twinshu-parmar-84b5bb209/)
 
 ---
 
