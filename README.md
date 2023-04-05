@@ -1,48 +1,83 @@
+# Hi 👋, I'm <a href="https://github.com/twi05" target="blank">Twinshu</a>
+<h3>A Passionate Developer from India &#127470;&#127475</h3>
+ <img src="https://komarev.com/ghpvc/?username=twi05&label=PROFILE VIEWS  &color=red&style=flat" alt="twinshu"/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a> 
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/twinshu-parmar-84b5bb209/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+- 🌱 I’m currently Working on Web Development (ReactJS, NextJS) and C++ as Core Language.
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=twi05&style=flat-square&color=blue" alt=""></p>
+- 🤝 I’m available for Jobs.
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+- 🌱 I’m currently learning Advance ReactJS and Data Struture and Algorithm.
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+- 💬 Ask me about **ReactJS & Cpp**
 
-### :woman_technologist: &nbsp;About Me :
 
-I am a aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m 2nd Year CSE Undergrad at Shri Ramdeobaba College of Engineering and Management.
-- 🌱 Exploring Software Engineering Field.
-- ⚡ In my free time I solve problems on Leetcode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-twinshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/twinshu-parmar-84b5bb209/)
 
----
+<a href="https://www.linkedin.com/in/twinshu-parmar">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+ <a href="https://leetcode.com/twi05/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://twitter.com/twinshu_parmar">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="twinshup@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🛠 &nbsp;Languages and Tools :
+## **About me** :
 
+- I Dig up 🕵️‍♀️real-world problems🌍and **Find Solutions** for them.
+- I 😍love to **Create and modify new products** and **Projects**👨‍💻.
+- I Focus on my **Problem-Solving Skill** and Trend Awareness🕵️‍♀️.
+- I 👨‍🏫Love to **Share** my **knowledge** and **experience** in **Public**.
+- Always excited and ready to **Learn New Skills👨‍🎓**.
+
+## **Languages and Tools**
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
+	
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px">
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px" >
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px >
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
+
 </p>
 
----
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twi05&theme=dark&background=000000)](https://git.io/streak-stats)
+      
+## **GitHub Stats** 
+<p align="center">
+<a href="https://github.com/twi05" title="Redirect's to Twinshu's Github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=twi05&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twi05&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/twi05">
+<img width="49%" title="Redirect's to Twinshu's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=twi05&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
+
+## **Projects**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- 
+- [Tesla Website Clone using ReactJS](https://tesla-clone-shyamtawli.netlify.app/)
+- [Landing Page Responsive - dolla](https://dolla-responsive-shyamtawli.netlify.app/)
+- [YouTube Clone using HTML & CSS](https://youtube-clone-shyamtawli.netlify.app/)
+- [ToDo List using ReactJS](https://todo-react-shyamtawli.netlify.app/)
+- [Crypto Price Tracker using ReactJS](https://crypto-price-shyamtawli.netlify.app/) -->
+<!-- BLOG-POST-LIST:END -->
