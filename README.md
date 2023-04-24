@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/twinshu-parmar">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
- <a href="https://leetcode.com/twi05/">
+ <a href="https://leetcode.com/twinshu/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://twitter.com/twinshu_parmar">
